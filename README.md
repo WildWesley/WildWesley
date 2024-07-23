@@ -11,6 +11,8 @@ I'm an indie software developer that loves to compete in hackathons and competit
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Spring" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img align="left" alt="Spring" width="35px" style="padding-right:8px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="Git" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
 <img align="left" alt="CSS" width="35px" style="padding-right:8px;" 
