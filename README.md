@@ -8,26 +8,24 @@ I'm an indie software developer that loves to compete in hackathons and competit
 
 ### 🤖 Languages and Tools
 
-<img align="left" alt="Java" width="35px" style="padding-right:10px;"
+<img align="left" alt="Java" width="35px" style="padding-right:8px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" 
+<img align="left" alt="TypeScript" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Spring" width="35px" style="padding-right:10px;" 
+<img align="left" alt="Spring" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<img align="left" alt="Spring" width="35px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
+<img align="left" alt="CSS" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
+<img align="left" alt="CSS" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" 
+<img align="left" alt="HTML" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />        
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" 
+<img align="left" alt="CSS" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> 
-<img align="left" alt="Angular" width="35px" style="padding-right:10px;" 
+<img align="left" alt="Angular" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" 
+<img align="left" alt="Linux" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />        
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" 
+<img align="left" alt="HTML" width="35px" style="padding-right:8px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />          
 <br />
