@@ -1,6 +1,6 @@
 ## Nathan Hill 👽
 
-**'Student & Software Developer'** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Student & Software Developer'**
 
 I'm an indie software developer that loves to compete in hackathons and competitive programming. I use all of my projects as an opportunity to learn about the infinite facets of programming, from video game design to making live trades on the stock and crypto markets. I'm also a full-time student at BYU Provo studying computer engineering.
 
